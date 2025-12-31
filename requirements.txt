@@ -1,0 +1,7 @@
+flask
+mss
+numpy
+Pillow
+requests
+google-generativeai
+thefuzz
