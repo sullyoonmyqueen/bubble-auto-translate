@@ -19,6 +19,9 @@
 > ⚠️ **注意**：安裝時請務必勾選 **"Add Python to PATH"**。
 
 ### 2. 安裝必要套件
-在程式資料夾中按右鍵開啟終端機 (或 cmd)，執行以下指令：
+在程式資料夾中打開install.bat 或按右鍵開啟終端機 (或 cmd)，執行以下指令：
 ```bash
-pip install -r requirements.txt
+pip install -r requirements.txt 
+
+### 2. 安裝必要套件
+啟動.bat
