@@ -32,7 +32,7 @@ pip install -r requirements.txt
 
 ---
 
-## 📜 授權聲明 (License)
+### 📜 授權聲明 (License)
 
 ## 授權說明（License）
 本專案採用 **雙重授權（Dual License）** 模式：
