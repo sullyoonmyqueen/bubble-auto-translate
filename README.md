@@ -24,6 +24,7 @@
 您可以直接執行資料夾中的 `install.bat`，或者在資料夾中按右鍵開啟終端機 (或 cmd)，手動執行以下指令：
 ```bash
 pip install -r requirements.txt
+```
 
 ### 3. 啟動程式
 
