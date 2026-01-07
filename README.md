@@ -34,26 +34,22 @@ pip install -r requirements.txt
 
 ## 📜 授權聲明 (License)
 
-本專案採用 **GPL v3** 授權條款，並附加**非商業使用限制**。使用本專案即代表您同意以下所有條款：
+## 授權說明（License）
+本專案採用 **雙重授權（Dual License）** 模式：
 
-### 1. 非商業使用限制 (Non-Commercial Use Only)
+### 🟢 開源授權（GPL v3）
+個人使用者或開源專案可依據
+**GNU General Public License v3（GPL v3）**
+使用、修改及散佈本專案，
+但必須遵守 GPL v3 之相關規定。
 
-> **Free for personal, educational, and non-commercial use only. Any commercial use is strictly prohibited without prior permission.**
+### 🔵 商業授權
+若您希望將本專案用於：
+- 商業產品
+- 商業服務
+- 公司內部系統
+- 閉源或無法遵循 GPL v3 之專案
 
-（僅限個人、教育及非商業用途。未經許可嚴禁任何商業使用。）
+請務必先取得商業授權。
 
-### 2. 開源與分享 (GPL v3 Core)
-
-基於 GPL v3 精神，如果您修改了本程式的原始碼並將其發布（或是作為服務提供），您必須遵守：
-
-* **強制開源**：必須公開您修改後的完整原始碼。
-* **版權聲明**：必須保留原作者的版權聲明。
-* **專利條款**：本授權包含專利保護條款。
-
-若您有商業授權需求（例如：閉源使用、商業販售），請聯繫作者洽談特別授權。
-
----
-
-## ⚠️ 免責聲明
-
-本工具僅供個人學習與輔助使用，請勿用於違反遊戲服務條款之行為。開發者不對因使用本工具而導致的任何帳號風險負責。
+📩 商業授權聯絡方式：
